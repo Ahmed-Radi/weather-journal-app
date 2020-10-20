@@ -8,3 +8,12 @@ This will require modifying the `server.js` file and the `website/app.js` file. 
 
 ## Extras
 If you are interested in testing your code as you go, you can use `tests.js` as a template for writing and running some basic tests for your code.
+
+
+## Project
+
+![weather-journal-app-website-index-html](https://user-images.githubusercontent.com/52893501/96573868-00730400-12cf-11eb-82c1-44b350f466c5.png)
+
+## Result
+
+![weather_project](https://user-images.githubusercontent.com/52893501/96574025-3617ed00-12cf-11eb-90d1-82bcc4cbad7c.png)
